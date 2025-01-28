@@ -1,9 +1,9 @@
 # BharatGo-assignment
 
-#BharatGo Testing Documentation
+#BharatGo Testing Documentation =
 This repository contains the testing documentation for the BharatGo website. The testing process focuses on two key scenarios and includes test plans, test cases, and a bug report.
 
-Project Overview
+Project Overview - 
 BharatGo is a platform designed to help businesses manage their online presence and operations. This documentation outlines the validation and testing efforts for the following key scenarios:
 
 1.Creating a New Store:
